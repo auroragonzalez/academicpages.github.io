@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aurora González Vidal"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Specialist on Data Analytics, including Machine Learning methods, time series representation, missing values imputation and anomaly detection for Internet of Things."
 #  location         : "Location"
   employer         :  "University of Murcia, Spain"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+#  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
