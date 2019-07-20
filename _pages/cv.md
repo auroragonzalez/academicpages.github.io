@@ -9,11 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+
+[Download thesis (heavy document, high resolution papers) here](http://auroragonzalez.github.io/files/memoirthesis_heavy_protected.pdf)
+
+[Download thesis (light document, low resolution papers) here](http://auroragonzalez.github.io/files/memoirthesis_light_protected.pdf)
+
+
+
+[Download CV here](http://auroragonzalez.github.io/files/AGVcv.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, University of Murcia, 2014
+* M.S. in Training of Secondary, Professional, and Language Teachers. Speciality: Mathematics, University Miguel Hernandez (Elche), 2015
+* M.S. in in Big Data: Massive Data Analysis Technologies, UMU, 2017
+* Ph.D in Data Analytics Approaches in IoT based Smart Environments, University of Murcia, 2019 (expected)
 
 Work experience
 ======
@@ -56,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently president of the R Association UMUR: Murcia R users.
