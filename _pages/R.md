@@ -10,30 +10,17 @@ redirect_from:
 {% include base_path %}
 
 
-[Download thesis (heavy document, high resolution papers) here](http://auroragonzalez.github.io/files/memoirthesis_heavy_protected.pdf)
 
-[Download thesis (light document, low resolution papers) here](http://auroragonzalez.github.io/files/memoirthesis_light_protected.pdf)
-
-
-
-[Download CV here](http://auroragonzalez.github.io/files/AGVcv.pdf)
-
-Education
+Shiny apps
 ======
-* B.S. in Mathematics, University of Murcia, 2014
-* M.S. in Training of Secondary, Professional, and Language Teachers. Speciality: Mathematics, University Miguel Hernandez (Elche), 2015
-* M.S. in in Big Data: Massive Data Analysis Technologies, UMU, 2017
-* Ph.D in Data Analytics Approaches in IoT based Smart Environments, University of Murcia, 2019 (expected)
+[Energy consumption prediction (spanish app)](http://gauss.inf.um.es:8080/predCONS/)
 
-Work experience
+[IC50 calculation (spanish app)](http://gauss.inf.um.es:8080/IC50/)
+
+Teaching
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+[R online course (spanish)](http://gauss.inf.um.es/tabular/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-RRRR
+Community
+======
+[UMUR: R users association in Murcia (spanish)](http://gauss.inf.um.es/umur/)
