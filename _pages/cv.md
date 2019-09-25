@@ -10,10 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[Download thesis (heavy document, high resolution papers) here](http://auroragonzalez.github.io/files/20190828memoirthesis_heavy_protected.pdf)
-
-[Download thesis (light document, low resolution papers) here](http://auroragonzalez.github.io/files/20190828memoirthesis_light_protected.pdf)
-
+[Download thesis here](http://auroragonzalez.github.io/files/20190915memoirthesis)
 
 
 [Download CV here](http://auroragonzalez.github.io/files/AGVcv.pdf)
