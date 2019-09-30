@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[Download thesis here](http://auroragonzalez.github.io/files/20190915memoirthesis)
+[Download thesis here](http://auroragonzalez.github.io/files/20190915memoirthesis.pdf)
 
 
 [Download CV here](http://auroragonzalez.github.io/files/AGVcv.pdf)
